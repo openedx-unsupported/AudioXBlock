@@ -1,3 +1,13 @@
+![Status](https://img.shields.io/badge/status-deprecated-red)
+
+> ## ⚠️ This Repository is Deprecated
+> This repository is no longer maintained.
+>
+> The Audio XBlock has been moved to:
+> 👉 https://github.com/openedx/xblocks-extra
+>
+> Please use the new repository for all future work.
+
 AudioXBlock
 ===========
 
